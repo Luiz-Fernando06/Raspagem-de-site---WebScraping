@@ -1,5 +1,5 @@
-# Raspagem de site - WebScraping
-📚 Raspador de Livros
+# 📚 Raspador de Livros
+
 
 Este projeto é um web scraper que coleta informações de livros no site Books to Scrape
  e gera uma tabela em CSV com:
